@@ -1,0 +1,26 @@
+.footer {
+  padding: 80px 0;
+  color: white;
+  text-align: center;
+}
+
+.list-inline {
+  padding: 0;
+}
+
+.list-inline li {
+  color: white;
+  font-size: 36px;
+  text-decoration: none;
+  padding: 10px;
+  display: inline;
+}
+
+.list-inline li .fa-brands {
+  color: white;
+}
+
+p .fa-heart {
+  color: black;
+  font-size: 20px;
+}
